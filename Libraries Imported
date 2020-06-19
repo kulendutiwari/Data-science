@@ -1,0 +1,10 @@
+#importing libraries
+
+import pandas as pd
+import numpy as np                     # For mathematical calculations
+import seaborn as sns                  # For data visualization
+import matplotlib.pyplot as plt 
+import seaborn as sn                   # For plotting graphs
+%matplotlib inline
+import warnings                        # To ignore any warnings
+warnings.filterwarnings("ignore")
